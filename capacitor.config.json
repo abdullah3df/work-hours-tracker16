@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.saati",
+  "appName": "Saati",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
